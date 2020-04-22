@@ -2,7 +2,7 @@
 #This Script is for setting up Local Repository with online sync
 #Script Name            : centos7_reposync.sh
 #Dated                  : September 2018
-#Author                 : M.S. Arun (538880) / DCS-UNIX-OPS-Team
+#Author                 : M.S. Arun
 #Email                  : msarun003@gmail.com
 #Usage                  : ./centos7_reposync.sh
 #Last Update            : December 2018
